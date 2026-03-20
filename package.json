@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is for BuyerForesight (build a REST API for managing users)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourinry/Project-BuyerForesight.git"
+  },
+  "keywords": [
+    "intern",
+    "backend",
+    "engineering"
+  ],
+  "author": "sourin roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourinry/Project-BuyerForesight/issues"
+  },
+  "homepage": "https://github.com/sourinry/Project-BuyerForesight#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
