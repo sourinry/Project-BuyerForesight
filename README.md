@@ -115,7 +115,6 @@ POST /api/v1/user
 ```json
 {
   "name": "Sourin",
-  "email": "sourin@gmail.com"
 }
 ```
 
@@ -178,7 +177,6 @@ DELETE /api/v1/user/:id
 Example rules:
 
 * `name` → required, minimum 3 characters
-* `email` → must be a valid email format
 
 ---
 
@@ -229,7 +227,7 @@ Response
 ## Assumptions
 
 * No authentication required
-* Unique ID generated internally
+* Unique ID generated internally 
 * Basic validation implemented using Joi
 * No database used (as per assignment requirement)
 
@@ -257,4 +255,4 @@ This project was built as part of an assignment to evaluate:
 
 Ready for submission
 Interview-ready
-Follows best practices
+try to Follows best practices
