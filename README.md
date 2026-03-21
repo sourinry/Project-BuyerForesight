@@ -63,7 +63,7 @@ npm install
 Create a `.env` file in the root directory:
 
 ```env
-PORT=3000
+PORT=3030
 DB_TYPE=memory
 ```
 
@@ -97,7 +97,7 @@ npm run dev
 ## Base URL
 
 ```
-http://localhost:3000/api/v1/user
+http://localhost:3030/api/v1/user
 ```
 
 ---
